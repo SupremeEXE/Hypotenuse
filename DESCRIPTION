@@ -1,0 +1,10 @@
+Package: pythagorus
+Type: Package
+Title: Returns values of different pythagorean triples.
+Version: 1.0
+Date: 2020-02-05
+Author: Shaun Bolt
+Maintainer: sbolt0101@gmail.com
+Description: Shows the various different lengths of legs and hypotenuse that make a pythagorean triple or pythagorean triangle.
+             The package will return a list of different pythagorean triples or pythagorean triangles.
+License: CC0-1.0 "Creative Commons Zero v1.0 Universal"
